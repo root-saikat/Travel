@@ -759,6 +759,10 @@ section {
 .footer .credit span {
   color: #219150;
 }
+.clients {
+  padding: 3rem 2rem;
+}
+
 
 @media (max-width: 1200px) {
   .header {
